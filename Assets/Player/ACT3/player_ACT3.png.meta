@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: cbbb719622eef420fb8b974e72a75cbf
+timeCreated: 1454180720
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player_ACT3_0
+    21300002: player_ACT3_1
+    21300004: player_ACT3_2
+    21300006: player_ACT3_3
+    21300008: player_ACT3_4
+    21300010: player_ACT3_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player_ACT3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 599.1667
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -55}
+        - {x: 111, y: -4}
+        - {x: 105, y: 4}
+        - {x: 82, y: 92}
+        - {x: 64, y: 116}
+        - {x: -67, y: 116}
+        - {x: -98, y: 99}
+        - {x: -107, y: 47}
+        - {x: -107, y: -39}
+        - {x: -57, y: -112}
+        - {x: -44, y: -116}
+        - {x: -30, y: -116}
+        - {x: -14, y: -99}
+        - {x: 13, y: -116}
+        - {x: 60, y: -116}
+    - name: player_ACT3_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 599.1667
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.23837, y: 93}
+        - {x: 63.238373, y: 112}
+        - {x: 61.238373, y: 114}
+        - {x: -60.761627, y: 114}
+        - {x: -83.76163, y: 91}
+        - {x: -98.76163, y: 35}
+        - {x: -98.76163, y: -75}
+        - {x: -96.76163, y: -85}
+        - {x: -81.76163, y: -116}
+        - {x: 70.23837, y: -116}
+        - {x: 103.23837, y: -74}
+        - {x: 104.23837, y: -72}
+        - {x: 104.23837, y: 2}
+    - name: player_ACT3_2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 0
+        width: 599.1667
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 134.47675, y: -26}
+        - {x: 87.476746, y: 92}
+        - {x: 62.476746, y: 115}
+        - {x: -75.523254, y: 115}
+        - {x: -103.523254, y: 18}
+        - {x: -129.52325, y: -27}
+        - {x: -129.52325, y: -63}
+        - {x: -116.523254, y: -84}
+        - {x: -61.523254, y: -109}
+        - {x: -59.523254, y: -116}
+        - {x: 64.476746, y: -116}
+        - {x: 66.476746, y: -113}
+        - {x: 123.476746, y: -73}
+        - {x: 134.47675, y: -56}
+    - name: player_ACT3_3
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 0
+        width: 599.1667
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112.21515, y: 21}
+        - {x: 91.21515, y: 96}
+        - {x: 65.21515, y: 116}
+        - {x: -66.78485, y: 116}
+        - {x: -99.78485, y: 100}
+        - {x: -105.78485, y: 74}
+        - {x: -105.78485, y: -42}
+        - {x: -64.78485, y: -67}
+        - {x: -59.78485, y: -112}
+        - {x: -57.78485, y: -116}
+        - {x: -28.784851, y: -116}
+        - {x: -2.784851, y: -102}
+        - {x: 29.215149, y: -116}
+        - {x: 61.21515, y: -116}
+        - {x: 112.21515, y: -42}
+    - name: player_ACT3_4
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 0
+        width: 599.1667
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.45349, y: -116}
+        - {x: 88.45349, y: -86}
+        - {x: 88.45349, y: 106}
+        - {x: 65.45349, y: 116}
+        - {x: -62.54651, y: 116}
+        - {x: -81.54651, y: 99}
+        - {x: -81.54651, y: -51}
+        - {x: -58.54651, y: -111}
+        - {x: -44.54651, y: -116}
+        - {x: -28.546509, y: -116}
+        - {x: -13.546509, y: -94}
+        - {x: 35.45349, y: -116}
+    - name: player_ACT3_5
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 0
+        width: 599.1667
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.191895, y: 3}
+        - {x: 83.191895, y: 29}
+        - {x: 83.191895, y: 98}
+        - {x: 61.191895, y: 116}
+        - {x: -60.808105, y: 116}
+        - {x: -76.808105, y: 100}
+        - {x: -76.808105, y: 26}
+        - {x: -57.808105, y: -116}
+        - {x: -18.808105, y: -116}
+        - {x: -5.8081055, y: -98}
+        - {x: 33.191895, y: -116}
+        - {x: 64.191895, y: -116}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

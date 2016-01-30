@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 1330baf17312542b8a73a5609db22b6c
+timeCreated: 1454178949
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player Act2_0
+    21300002: Player Act2_1
+    21300004: Player Act2_2
+    21300006: Player Act2_3
+    21300008: Player Act2_4
+    21300010: Player Act2_5
+    21300012: Player Act2_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player Act2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 583.4286
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.5, y: 99.5}
+        - {x: -53.5, y: 99.5}
+        - {x: -71.5, y: 80.5}
+        - {x: -71.5, y: -30.5}
+        - {x: -56.5, y: -100.5}
+        - {x: 69.5, y: -100.5}
+        - {x: 74.5, y: -89.5}
+        - {x: 74.5, y: 54.5}
+        - {x: 72.5, y: 78.5}
+    - name: Player Act2_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 583.4286
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.856506, y: 100.5}
+        - {x: -92.14349, y: 100.5}
+        - {x: -114.14349, y: 84.5}
+        - {x: -114.14349, y: 28.5}
+        - {x: -65.14349, y: -19.5}
+        - {x: -47.143494, y: -100.5}
+        - {x: 64.85651, y: -100.5}
+        - {x: 75.85651, y: -70.5}
+        - {x: 75.85651, y: 74.5}
+        - {x: 71.85651, y: 83.5}
+    - name: Player Act2_2
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 0
+        width: 583.4286
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.713013, y: 100.5}
+        - {x: -54.286987, y: 100.5}
+        - {x: -82.28699, y: 84.5}
+        - {x: -122.28699, y: 36.5}
+        - {x: -122.28699, y: -17.5}
+        - {x: -59.286987, y: -100.5}
+        - {x: 66.71301, y: -100.5}
+        - {x: 76.71301, y: -82.5}
+        - {x: 76.71301, y: 12.5}
+        - {x: 73.71301, y: 84.5}
+    - name: Player Act2_3
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 0
+        width: 583.4286
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.56952, y: 100.5}
+        - {x: -62.43048, y: 100.5}
+        - {x: -87.43048, y: 18.5}
+        - {x: -109.43048, y: -25.5}
+        - {x: -109.43048, y: -40.5}
+        - {x: -96.43048, y: -64.5}
+        - {x: -70.43048, y: -100.5}
+        - {x: 70.56952, y: -100.5}
+        - {x: 76.56952, y: -84.5}
+        - {x: 76.56952, y: 11.5}
+        - {x: 73.56952, y: 84.5}
+    - name: Player Act2_4
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 0
+        width: 583.4286
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.926025, y: 100.5}
+        - {x: -56.073975, y: 100.5}
+        - {x: -78.073975, y: 83.5}
+        - {x: -81.073975, y: 56.5}
+        - {x: -81.073975, y: -72.5}
+        - {x: -36.073975, y: -99.5}
+        - {x: -34.073975, y: -100.5}
+        - {x: 44.926025, y: -100.5}
+        - {x: 76.926025, y: -79.5}
+        - {x: 76.926025, y: 90.5}
+    - name: Player Act2_5
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 0
+        width: 583.4286
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.78247, y: 83.5}
+        - {x: 54.78247, y: 100.5}
+        - {x: -68.21753, y: 100.5}
+        - {x: -78.21753, y: 74.5}
+        - {x: -78.21753, y: -67.5}
+        - {x: -41.21753, y: -100.5}
+        - {x: 53.78247, y: -100.5}
+        - {x: 77.78247, y: -76.5}
+        - {x: 77.78247, y: 9.5}
+    - name: Player Act2_6
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 0
+        width: 583.4286
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.639038, y: 98.5}
+        - {x: 54.639038, y: 100.5}
+        - {x: -55.360962, y: 100.5}
+        - {x: -78.36096, y: 92.5}
+        - {x: -78.36096, y: -55.5}
+        - {x: -42.360962, y: -100.5}
+        - {x: 55.639038, y: -100.5}
+        - {x: 77.63904, y: -79.5}
+        - {x: 77.63904, y: 39.5}
+        - {x: 73.63904, y: 79.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
