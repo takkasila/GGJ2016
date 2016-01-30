@@ -8,33 +8,52 @@ public class KeySequence : MonoBehaviour {
 
     int waitKeyIndex  = 0;
 
-    KeySequence(string keySequences)
+    bool listenKey = false;
+
+    void OnTriggerEnter(Collider col)
     {
-        this.keySequences = keySequences;
+        if (col.gameObject.tag == "Player")
+        {
+            listenKey = true;
+            waitKeyIndex = 0;
+        }
     }
 
-	void Update () {
-        if(Input.anyKeyDown)
+    void OnTriggerExit(Collider col)
+    {
+        if (col.gameObject.tag == "Player")
         {
-            if (string.IsNullOrEmpty(Input.inputString))
-                return;
-            
-            char key = Input.inputString[0];
-            if (key == keySequences[waitKeyIndex])
-            {
-                waitKeyIndex++;
-            }
-            else
-            {
-                waitKeyIndex = 0;
-            }
-
+            listenKey = false;
+            waitKeyIndex = 0;
         }
+    }
 
-        if(waitKeyIndex == keySequences.Length)
+	void Update () 
+    {
+        if(listenKey)
         {
-            listenerObject.SendMessage("FinishedKeySequences");
-            this.enabled = false;
+            if(Input.anyKeyDown)
+            {
+                if (string.IsNullOrEmpty(Input.inputString))
+                    return;
+            
+                char key = Input.inputString[0];
+                if (key == keySequences[waitKeyIndex])
+                {
+                    waitKeyIndex++;
+                }
+                else
+                {
+                    waitKeyIndex = 0;
+                }
+
+            }
+
+            if(waitKeyIndex == keySequences.Length)
+            {
+                listenerObject.SendMessage("FinishedKeySequences");
+                this.enabled = false;
+            }
         }
 	}
 }
