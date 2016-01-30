@@ -7,7 +7,12 @@ public class KeySequence : MonoBehaviour {
     public GameObject listenerObject;
 
     int waitKeyIndex  = 0;
-	
+
+    KeySequence(string keySequences)
+    {
+        this.keySequences = keySequences;
+    }
+
 	void Update () {
         if(Input.anyKeyDown)
         {
