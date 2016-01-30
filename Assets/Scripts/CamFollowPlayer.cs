@@ -5,25 +5,21 @@ public class CamFollowPlayer : MonoBehaviour {
 
     public Transform Player;
     public Transform sceneBoundLeft, sceneBoundRight;
-    public Transform testBox;
     float camBlockWidth;
 
     void Start()
     {
         calCamBlockWidth_fromPerspective();
-        Debug.Log(camBlockWidth);
-        testBox.position = new Vector3(camBlockWidth / 2, testBox.position.y, testBox.position.z);
-        
     }
 
     void calCamBlockWidth_fromPerspective()
     {
-        Vector3 p = Camera.main.ViewportToWorldPoint(new Vector3(0, 0, -transform.position.z));
-        camBlockWidth = Mathf.Abs(p.x * 2);
+        Vector3 p = Camera.main.ViewportToWorldPoint(new Vector3(1, 1, -transform.position.z));
+        camBlockWidth = p.x * 2;
     }
 	void Update () {
         // Will change to LERP
-        transform.position = new Vector3(Player.transform.position.x, transform.position.y, transform.position.z);
+        transform.position = new Vector3(Mathf.Lerp(transform.position.x, Player.position.x, .18f), transform.position.y, transform.position.z);
 
         if(transform.position.x - camBlockWidth/2 < sceneBoundLeft.position.x)
         {
