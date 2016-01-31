@@ -9,6 +9,7 @@ public class KeySequence : MonoBehaviour {
     int waitKeyIndex  = 0;
 
     bool listenKey = false;
+    bool finishedKey = false;
 
     void OnTriggerEnter(Collider col)
     {
@@ -30,7 +31,7 @@ public class KeySequence : MonoBehaviour {
 
 	void Update () 
     {
-        if(listenKey)
+        if(listenKey && !finishedKey)
         {
             if(Input.anyKeyDown)
             {
@@ -40,7 +41,18 @@ public class KeySequence : MonoBehaviour {
                 char key = Input.inputString[0];
                 if (key == keySequences[waitKeyIndex])
                 {
-                    waitKeyIndex++;
+                    if(key == 'z' && PlayerData.z)
+                    {
+                        waitKeyIndex++;
+                    }
+                    else if (key == 'x' && PlayerData.x)
+                    {
+                        waitKeyIndex++;
+                    }
+                    else if (key == 'c' && PlayerData.c)
+                    {
+                        waitKeyIndex++;
+                    }
                 }
                 else
                 {
@@ -51,9 +63,23 @@ public class KeySequence : MonoBehaviour {
 
             if(waitKeyIndex == keySequences.Length)
             {
+                finishedKey = true;
                 listenerObject.SendMessage("FinishedKeySequences");
-                this.enabled = false;
+                //this.enabled = false;
             }
         }
 	}
+
+    public int getScore()
+    {
+        return waitKeyIndex;
+    }
+    public bool isFinishedSequence()
+    {
+        return finishedKey;
+    }
+    public int getMaxScore()
+    {
+        return keySequences.Length;
+    }
 }

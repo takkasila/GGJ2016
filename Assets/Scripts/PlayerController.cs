@@ -7,19 +7,18 @@ public class PlayerController : MonoBehaviour {
     public Animator anim;
 
 	void Update () {
-
         resetAnimBool();
-        if (Input.GetKeyDown(KeyCode.Z))
+        if (Input.GetKeyDown(KeyCode.Z) && PlayerData.z)
         {
             anim.SetBool("z", true);
             return;
         }
-        else if (Input.GetKeyDown(KeyCode.X))
+        else if (Input.GetKeyDown(KeyCode.X) && PlayerData.x)
         {
             anim.SetBool("x", true);
             return;
         }
-        else if (Input.GetKeyDown(KeyCode.C))
+        else if (Input.GetKeyDown(KeyCode.C) && PlayerData.c)
         {
             anim.SetBool("c", true);
             return;
@@ -29,7 +28,6 @@ public class PlayerController : MonoBehaviour {
             anim.SetBool("v", true);
             return;
         }
-
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             transform.position += Vector3.left * Time.deltaTime * walkSpeed;

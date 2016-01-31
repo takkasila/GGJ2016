@@ -20,5 +20,11 @@ public class TurnDoorOnOff : MonoBehaviour {
         gameObject.GetComponent<Renderer>().material = openMat;
         yield return new WaitForSeconds(3.5f);
         gameObject.GetComponent<Renderer>().material = closeMat;
+
+        if(PlayerData.firstLaunch)
+        {
+            PlayerData.firstLaunch = false;
+            PlayerData.z = true;
+        }
     }
 }
