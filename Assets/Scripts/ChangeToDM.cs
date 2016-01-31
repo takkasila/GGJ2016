@@ -13,4 +13,5 @@ public class ChangeToDM : MonoBehaviour {
         camfollow.Player = tempPlayer.transform;
         Destroy(gameObject);
     }
+
 }

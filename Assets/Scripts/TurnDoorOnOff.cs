@@ -7,7 +7,8 @@ public class TurnDoorOnOff : MonoBehaviour {
 
     void Start()
     {
-        StartCoroutine(waitCloseDoor(17));
+        if(PlayerData.firstLaunch)
+            StartCoroutine(waitCloseDoor(17));
     }
     void Open()
     {
