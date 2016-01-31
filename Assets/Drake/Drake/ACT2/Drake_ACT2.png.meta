@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 7c6b08a0db6bc48f4adc3b44338f0db8
+timeCreated: 1454213044
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Drake_ACT2_0
+    21300002: Drake_ACT2_1
+    21300004: Drake_ACT2_2
+    21300006: Drake_ACT2_3
+    21300008: Drake_ACT2_4
+    21300010: Drake_ACT2_5
+    21300012: Drake_ACT2_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Drake_ACT2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 599.4286
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 85.5}
+        - {x: -80.5, y: 85.5}
+        - {x: -101.5, y: 83.5}
+        - {x: -114.5, y: 57.5}
+        - {x: -114.5, y: 16.5}
+        - {x: -56.5, y: -100.5}
+        - {x: 62.5, y: -100.5}
+        - {x: 75.5, y: -76.5}
+        - {x: 75.5, y: 49.5}
+    - name: Drake_ACT2_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 599.4286
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.13776, y: 84.5}
+        - {x: -122.13776, y: 41.5}
+        - {x: -122.13776, y: -22.5}
+        - {x: -50.137756, y: -80.5}
+        - {x: -52.137756, y: -100.5}
+        - {x: 75.86224, y: -100.5}
+        - {x: 75.86224, y: 62.5}
+        - {x: 70.86224, y: 84.5}
+    - name: Drake_ACT2_2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 0
+        width: 599.4286
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.27551, y: 84.5}
+        - {x: -108.27551, y: -4.5}
+        - {x: -108.27551, y: -49.5}
+        - {x: -64.27551, y: -100.5}
+        - {x: 77.72449, y: -100.5}
+        - {x: 77.72449, y: 46.5}
+        - {x: 68.72449, y: 84.5}
+    - name: Drake_ACT2_3
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 0
+        width: 599.4286
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.586792, y: 84.5}
+        - {x: -55.413208, y: 84.5}
+        - {x: -82.41321, y: -3.5}
+        - {x: -82.41321, y: -86.5}
+        - {x: -68.41321, y: -100.5}
+        - {x: 62.586792, y: -100.5}
+        - {x: 75.58679, y: -81.5}
+        - {x: 75.58679, y: 35.5}
+        - {x: 74.58679, y: 45.5}
+    - name: Drake_ACT2_4
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 0
+        width: 599.4286
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.551025, y: 84.5}
+        - {x: -78.551025, y: 75.5}
+        - {x: -78.551025, y: -75.5}
+        - {x: -72.551025, y: -100.5}
+        - {x: 72.448975, y: -100.5}
+        - {x: 76.448975, y: -81.5}
+        - {x: 76.448975, y: 70.5}
+        - {x: 55.448975, y: 84.5}
+    - name: Drake_ACT2_5
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 0
+        width: 599.4286
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.18872, y: 84.5}
+        - {x: -78.18872, y: 42.5}
+        - {x: -78.18872, y: -39.5}
+        - {x: -53.18872, y: -100.5}
+        - {x: 67.81128, y: -100.5}
+        - {x: 77.81128, y: -78.5}
+        - {x: 77.81128, y: 47.5}
+        - {x: 55.81128, y: 84.5}
+    - name: Drake_ACT2_6
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 0
+        width: 599.4286
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.326416, y: 85.5}
+        - {x: -69.326416, y: 49.5}
+        - {x: -69.326416, y: -77.5}
+        - {x: -61.326416, y: -100.5}
+        - {x: 77.673584, y: -100.5}
+        - {x: 77.673584, y: 85.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

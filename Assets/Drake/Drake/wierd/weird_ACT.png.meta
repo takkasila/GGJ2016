@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 4a96bd6a5cef44281abe68dfc8b45b95
+timeCreated: 1454222630
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ACT_0
+    21300002: ACT_1
+    21300004: ACT_2
+    21300006: ACT_3
+    21300008: ACT_4
+    21300010: ACT_5
+    21300012: ACT_6
+    21300014: ACT_7
+    21300016: ACT_8
+    21300018: ACT_9
+    21300020: ACT_10
+    21300022: ACT_11
+    21300024: ACT_12
+    21300026: ACT_13
+    21300028: ACT_14
+    21300030: ACT_15
+    21300032: ACT_16
+    21300034: ACT_17
+    21300036: ACT_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ACT_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 33}
+        - {x: -25, y: 33}
+        - {x: -28, y: 18}
+        - {x: -28, y: -32}
+        - {x: -18, y: -37}
+        - {x: 20, y: -37}
+        - {x: 29, y: -33}
+        - {x: 29, y: 29}
+    - name: ACT_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.7957, y: 27}
+        - {x: -26.7957, y: -32}
+        - {x: -17.7957, y: -37}
+        - {x: 29.2043, y: -37}
+        - {x: 30.2043, y: -36}
+        - {x: 30.2043, y: 16}
+        - {x: 27.2043, y: 27}
+    - name: ACT_2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.0914, y: 27}
+        - {x: -32.0914, y: 15}
+        - {x: -32.0914, y: -32}
+        - {x: -29.0914, y: -37}
+        - {x: 43.9086, y: -37}
+        - {x: 43.9086, y: -16}
+        - {x: 22.9086, y: 27}
+    - name: ACT_3
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.887115, y: 27}
+        - {x: -26.887115, y: 12}
+        - {x: -31.887115, y: 0}
+        - {x: -31.887115, y: -9}
+        - {x: -18.887115, y: -37}
+        - {x: 28.112885, y: -37}
+        - {x: 44.112885, y: -25}
+        - {x: 44.112885, y: -10}
+        - {x: 24.112885, y: 27}
+    - name: ACT_4
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.6828, y: 27}
+        - {x: -30.6828, y: 3}
+        - {x: -30.6828, y: -17}
+        - {x: -27.6828, y: -37}
+        - {x: 29.3172, y: -37}
+        - {x: 45.3172, y: -22}
+        - {x: 45.3172, y: -13}
+        - {x: 23.3172, y: 27}
+    - name: ACT_5
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.978516, y: 27}
+        - {x: -30.978516, y: 9}
+        - {x: -30.978516, y: -25}
+        - {x: -21.978516, y: -37}
+        - {x: 43.021484, y: -37}
+        - {x: 44.021484, y: -36}
+        - {x: 44.021484, y: 0}
+        - {x: 22.021484, y: 27}
+    - name: ACT_6
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.274231, y: 27}
+        - {x: -19.274231, y: 25}
+        - {x: -26.274231, y: 12}
+        - {x: -32.27423, y: -3}
+        - {x: -32.27423, y: -24}
+        - {x: -29.274231, y: -27}
+        - {x: -22.274231, y: -27}
+        - {x: -20.274231, y: -33}
+        - {x: -19.274231, y: -37}
+        - {x: 29.725769, y: -37}
+        - {x: 43.72577, y: -27}
+        - {x: 43.72577, y: -10}
+        - {x: 20.725769, y: 27}
+    - name: ACT_7
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.569885, y: 27}
+        - {x: -30.569885, y: 24}
+        - {x: -30.569885, y: -9}
+        - {x: -17.569885, y: -37}
+        - {x: 26.430115, y: -37}
+        - {x: 44.430115, y: -25}
+        - {x: 44.430115, y: -3}
+        - {x: 35.430115, y: 27}
+    - name: ACT_8
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.1344, y: 27}
+        - {x: -20.8656, y: 27}
+        - {x: -30.8656, y: 18}
+        - {x: -30.8656, y: -28}
+        - {x: -23.8656, y: -37}
+        - {x: 39.1344, y: -37}
+        - {x: 44.1344, y: -33}
+        - {x: 44.1344, y: -3}
+    - name: ACT_9
+      rect:
+        serializedVersion: 2
+        x: 5391
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.838684, y: -15}
+        - {x: 25.838684, y: 27}
+        - {x: -20.161316, y: 27}
+        - {x: -31.161316, y: 8}
+        - {x: -31.161316, y: -18}
+        - {x: -25.161316, y: -36}
+        - {x: -23.161316, y: -37}
+        - {x: 23.838684, y: -37}
+        - {x: 37.838684, y: -24}
+        - {x: 43.838684, y: -18}
+    - name: ACT_10
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.957031, y: 27}
+        - {x: -18.957031, y: 25}
+        - {x: -25.957031, y: 12}
+        - {x: -31.957031, y: -3}
+        - {x: -31.957031, y: -24}
+        - {x: -28.957031, y: -27}
+        - {x: -21.957031, y: -27}
+        - {x: -19.957031, y: -33}
+        - {x: -18.957031, y: -37}
+        - {x: 28.042969, y: -37}
+        - {x: 44.04297, y: -24}
+        - {x: 44.04297, y: -14}
+        - {x: 22.042969, y: 27}
+    - name: ACT_11
+      rect:
+        serializedVersion: 2
+        x: 6589
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.247314, y: 12}
+        - {x: 23.247314, y: 27}
+        - {x: -19.752686, y: 27}
+        - {x: -39.752686, y: -17}
+        - {x: -39.752686, y: -20}
+        - {x: -36.752686, y: -24}
+        - {x: -31.752686, y: -26}
+        - {x: -25.752686, y: -20}
+        - {x: -17.752686, y: -37}
+        - {x: 23.247314, y: -37}
+        - {x: 39.247314, y: -25}
+        - {x: 45.247314, y: -19}
+        - {x: 44.247314, y: -15}
+    - name: ACT_12
+      rect:
+        serializedVersion: 2
+        x: 7188
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.048462, y: 30}
+        - {x: -26.048462, y: 6}
+        - {x: -23.048462, y: 5}
+        - {x: -20.048462, y: 5}
+        - {x: -22.048462, y: 5}
+        - {x: -31.048462, y: 0}
+        - {x: -31.048462, y: -32}
+        - {x: -23.048462, y: -37}
+        - {x: 37.951538, y: -37}
+        - {x: 44.951538, y: -33}
+        - {x: 44.951538, y: -13}
+        - {x: 22.951538, y: 30}
+    - name: ACT_13
+      rect:
+        serializedVersion: 2
+        x: 7787
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.844116, y: 34}
+        - {x: -30.844116, y: -27}
+        - {x: -21.844116, y: -37}
+        - {x: 44.155884, y: -37}
+        - {x: 44.155884, y: 28}
+        - {x: 25.155884, y: 34}
+    - name: ACT_14
+      rect:
+        serializedVersion: 2
+        x: 8386
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.63977, y: 6}
+        - {x: -21.63977, y: 5}
+        - {x: -18.63977, y: 5}
+        - {x: -20.63977, y: 5}
+        - {x: -29.63977, y: 1}
+        - {x: -29.63977, y: -32}
+        - {x: -18.63977, y: -37}
+        - {x: 24.36023, y: -37}
+        - {x: 45.36023, y: -24}
+        - {x: 45.36023, y: -10}
+        - {x: 34.36023, y: 17}
+        - {x: 24.36023, y: 30}
+        - {x: -19.63977, y: 30}
+    - name: ACT_15
+      rect:
+        serializedVersion: 2
+        x: 8985
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.935547, y: 34}
+        - {x: -29.935547, y: 10}
+        - {x: -29.935547, y: -12}
+        - {x: -19.935547, y: -37}
+        - {x: 45.064453, y: -37}
+        - {x: 45.064453, y: -14}
+        - {x: 29.064453, y: 34}
+    - name: ACT_16
+      rect:
+        serializedVersion: 2
+        x: 9584
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.231201, y: -24}
+        - {x: -28.231201, y: -27}
+        - {x: -21.231201, y: -27}
+        - {x: -13.231201, y: -37}
+        - {x: 43.7688, y: -37}
+        - {x: 44.7688, y: -36}
+        - {x: 44.7688, y: 1}
+        - {x: 26.768799, y: 30}
+        - {x: -20.231201, y: 30}
+        - {x: -31.231201, y: 1}
+    - name: ACT_17
+      rect:
+        serializedVersion: 2
+        x: 10183
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.526855, y: 27}
+        - {x: -39.526855, y: -16}
+        - {x: -39.526855, y: -21}
+        - {x: -34.526855, y: -25}
+        - {x: -30.526855, y: -26}
+        - {x: -25.526855, y: -21}
+        - {x: -21.526855, y: -37}
+        - {x: 46.473145, y: -37}
+        - {x: 46.473145, y: -12}
+        - {x: 25.473145, y: 27}
+    - name: ACT_18
+      rect:
+        serializedVersion: 2
+        x: 10782
+        y: 0
+        width: 599.4737
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.822632, y: 27}
+        - {x: -43.82263, y: 21}
+        - {x: -43.82263, y: -13}
+        - {x: -28.822632, y: -37}
+        - {x: 45.17737, y: -37}
+        - {x: 45.17737, y: -11}
+        - {x: 26.177368, y: 27}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: 9477f2e16e39530469d914df07588b60
-timeCreated: 1454161531
+guid: d7d6171fee3add748b820bddf6ddb34d
+timeCreated: 1454145090
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Mesh1_Wood_Door_Model
+    100000: Mesh1_Plate_Road_Model
     100002: //RootNode
-    400000: Mesh1_Wood_Door_Model
+    400000: Mesh1_Plate_Road_Model
     400002: //RootNode
-    2300000: Mesh1_Wood_Door_Model
-    3300000: Mesh1_Wood_Door_Model
-    4300000: Mesh1_Wood_Door_Model
+    2300000: Mesh1_Plate_Road_Model
+    3300000: Mesh1_Plate_Road_Model
+    4300000: Mesh1_Plate_Road_Model
   materials:
     importMaterials: 1
     materialName: 0
