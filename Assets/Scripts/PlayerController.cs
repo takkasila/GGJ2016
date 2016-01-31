@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour {
     public Animator anim;
 
 	void Update () {
+
         resetAnimBool();
         if (Input.GetKeyDown(KeyCode.Z) && PlayerData.z)
         {

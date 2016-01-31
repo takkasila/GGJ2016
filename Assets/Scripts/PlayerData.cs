@@ -7,6 +7,7 @@ public class PlayerData : MonoBehaviour {
     public static bool z = false;
     public static bool x = false;
     public static bool c = false;
+    public static bool isDM = false;
 
     public GameObject KeyZ, KeyX, KeyC;
     public void EnableZ()
@@ -21,4 +22,5 @@ public class PlayerData : MonoBehaviour {
     {
         Instantiate(KeyC, gameObject.transform.position + Vector3.up * 4, Quaternion.identity);
     }
+
 }
