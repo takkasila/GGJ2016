@@ -25,6 +25,9 @@ public class TurnDoorOnOff : MonoBehaviour {
         {
             PlayerData.firstLaunch = false;
             PlayerData.z = true;
+            GameObject player = GameObject.FindGameObjectWithTag("Player");
+            player.SendMessage("EnableZ");
+            Debug.Log(player.name);
         }
     }
 }
