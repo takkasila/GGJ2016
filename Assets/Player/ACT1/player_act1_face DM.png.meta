@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 12cdbb97f583e40fdbaa6ebe8c87aa58
+timeCreated: 1454189462
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player_act1_face DM_0
+    21300002: player_act1_face DM_1
+    21300004: player_act1_face DM_2
+    21300006: player_act1_face DM_3
+    21300008: player_act1_face DM_4
+    21300010: player_act1_face DM_5
+    21300012: player_act1_face DM_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player_act1_face DM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 599.5714
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: -32}
+        - {x: 71.5, y: 80}
+        - {x: 60.5, y: 100}
+        - {x: -55.5, y: 100}
+        - {x: -72.5, y: 78}
+        - {x: -70.5, y: 17}
+        - {x: -90.5, y: -42}
+        - {x: -90.5, y: -100}
+        - {x: 90.5, y: -100}
+        - {x: 90.5, y: -31}
+        - {x: 89.5, y: -28}
+    - name: player_act1_face DM_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 599.5714
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.69513, y: -31}
+        - {x: 79.69513, y: 69}
+        - {x: 57.69513, y: 100}
+        - {x: -54.30487, y: 100}
+        - {x: -71.30487, y: 78}
+        - {x: -69.30487, y: 7}
+        - {x: -89.30487, y: -49}
+        - {x: -89.30487, y: -100}
+        - {x: 91.69513, y: -100}
+        - {x: 91.69513, y: -31}
+        - {x: 90.69513, y: -27}
+    - name: player_act1_face DM_2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 0
+        width: 599.5714
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.89026, y: -32}
+        - {x: 74.89026, y: 80}
+        - {x: 56.89026, y: 100}
+        - {x: -51.10974, y: 100}
+        - {x: -70.10974, y: 79}
+        - {x: -69.10974, y: 6}
+        - {x: -89.10974, y: -49}
+        - {x: -89.10974, y: -100}
+        - {x: 92.89026, y: -100}
+        - {x: 92.89026, y: -33}
+        - {x: 91.89026, y: -27}
+    - name: player_act1_face DM_3
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 0
+        width: 599.5714
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.58539, y: -35}
+        - {x: 75.58539, y: 81}
+        - {x: 56.58539, y: 100}
+        - {x: -53.41461, y: 100}
+        - {x: -72.41461, y: 78}
+        - {x: -69.41461, y: 5}
+        - {x: -88.41461, y: -49}
+        - {x: -88.41461, y: -100}
+        - {x: 90.58539, y: -100}
+        - {x: 92.58539, y: -98}
+        - {x: 92.58539, y: -58}
+    - name: player_act1_face DM_4
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 0
+        width: 599.5714
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.78052, y: 79}
+        - {x: 63.780518, y: 100}
+        - {x: -56.219482, y: 100}
+        - {x: -70.21948, y: 78}
+        - {x: -68.21948, y: 6}
+        - {x: -88.21948, y: -49}
+        - {x: -88.21948, y: -100}
+        - {x: 92.78052, y: -100}
+        - {x: 92.78052, y: -32}
+        - {x: 91.78052, y: -28}
+        - {x: 75.78052, y: 7}
+    - name: player_act1_face DM_5
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 0
+        width: 599.5714
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.975586, y: 87}
+        - {x: 64.975586, y: 100}
+        - {x: -56.024414, y: 100}
+        - {x: -68.024414, y: 79}
+        - {x: -67.024414, y: 5}
+        - {x: -87.024414, y: -49}
+        - {x: -87.024414, y: -100}
+        - {x: 93.975586, y: -100}
+        - {x: 93.975586, y: -24}
+        - {x: 84.975586, y: 7}
+    - name: player_act1_face DM_6
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 0
+        width: 599.5714
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.67078, y: 81}
+        - {x: 56.670776, y: 100}
+        - {x: -49.329224, y: 100}
+        - {x: -68.32922, y: 78}
+        - {x: -69.32922, y: 43}
+        - {x: -66.32922, y: 15}
+        - {x: -87.32922, y: -43}
+        - {x: -87.32922, y: -100}
+        - {x: 93.67078, y: -100}
+        - {x: 93.67078, y: -34}
+        - {x: 92.67078, y: -27}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
